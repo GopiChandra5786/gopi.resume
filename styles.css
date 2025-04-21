@@ -4,7 +4,7 @@
     --bg-dark: #121212;
     --fg-light: #222222;
     --fg-dark: #e0e0e0;
-    --primary: #ff6347;
+    --primary: #ff6398;
     --transition: 0.3s ease;
   }
   body[data-theme="light"] {
@@ -16,7 +16,7 @@
     color: var(--fg-dark);
   }
   * {
-    margin: 0;
+    margin: 10;
     padding: 0;
     box-sizing: border-box;
     scroll-behavior: smooth;
